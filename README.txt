@@ -1,11 +1,4 @@
-TO SEE ALL THE CODE PRESS THE > BUTTON TO SEE FILES
 The Game: Cell Factory
-Game View:
-https://editor.p5js.org/.Fragmented_HF_ang./full/qbiGrxyps
-(WASD Move, E to pick up, Click to throw)
-Game Code:
-https://editor.p5js.org/.Fragmented_HF_ang./sketches/qbiGrxyps
-Writeups:
 Overview:
 
 Photosynthesis and cellular respiration are two very important processes for plants. They produce the ATP plants needed for energy. Photosynthesis happens in the chloroplast, an organelle containing stacks of thylakoids, called grana. The light reactions, the first part of photosynthesis, happens in the thylakoids to produce the ATP and NADPH needed in the Calvin Cycle, which happens in the stroma of the chloroplast, outside the thylakoids but inside the chloroplast. The Calvin Cycle produces the glucose that cellular respiration needs to make ATP. The equation for photosynthesis is 6CO2 + 6H2O + energy from light → C6H12O6 + 6O2. Basically, 6 carbon dioxide molecules, 6 water molecules, and some photons, sunlight energy, go in, and it forms glucose, which is needed for cellular respiration, and 6 oxygen gas molecules, which are exhaled as a byproduct. The many different layers and membranes the chloroplast has makes it easier for the plant to have multiple cycles at the same time for maximum efficiency, as seen in the Calvin Cycle. Cellular respiration happens in the mitochondria, also known as the powerhouse of the cell, because this is where all the energy, ATP, is produced. Cellular respiration takes the glucose from photosynthesis and breaks it down further, making ATP. The mitochondria has a bean-like shape, maximizing the amount of membrane space and space in general to be able to produce more ATP. The equation for cellular respiration is C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP. Basically, a glucose molecule and 6 molecules of oxygen gas go in, and 6 molecules of carbon dioxide, 6 molecules of water, and ATP are produced. The only thing that matters is the ATP, though, so the carbon dioxide and the water are pushed out of the plant. Photosynthesis and cellular respiration are inverses of each other, and together they provide a base for all life on Earth.
@@ -30,12 +23,12 @@ The Link Reaction requires 2 Pyruvate, 2 NAD+, and 2 CoA. During the Link Reacti
 
 Krebs Cycle:
 
-[insert section here]
+Sorry, this text isn't available right now.
 
 
 Fermentation:
 
-insert section here
+Sorry, this text isn't available right now.
 
 
 
