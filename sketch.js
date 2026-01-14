@@ -184,7 +184,8 @@ function sheetConfig(w,h,sprite,sheet){
 function setup() {
   textFont('itim');
   createCanvas(900, 650);
-  displayMode('center');
+  pixelDensity(displayDensity() + 1);
+  displayMode('maxed');
   music[0].loop();
   rectMode(CENTER);
   /*
