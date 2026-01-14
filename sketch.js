@@ -184,8 +184,12 @@ function sheetConfig(w,h,sprite,sheet){
 function setup() {
   textFont('itim');
   createCanvas(900, 650);
-  pixelDensity(displayDensity() + 1);
+
+  // bump resolution to 2700x1950 for 4K displays
+  if (windowHeight >= 1000) pixelDensity(3);
+
   displayMode('maxed');
+  
   music[0].loop();
   rectMode(CENTER);
   /*
